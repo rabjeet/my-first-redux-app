@@ -1,0 +1,19 @@
+.form_input{
+    float:left;
+    width:100%;
+    margin:10px 0px;
+    label{
+        float:left;
+        width:100%;
+        padding:5px 0px;
+    }
+    input{
+        float:left;
+        width:100%;
+        padding:10px 10px;
+        border-radius: 5px;
+        background-color:transparent;
+        border:solid 1px #ccc;
+        margin-top:5px;
+    }
+}

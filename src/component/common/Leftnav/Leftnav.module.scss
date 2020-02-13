@@ -1,0 +1,25 @@
+.menu{
+    float:left;
+    width:250px;
+    height:100vh;
+    background:#efefef;
+    .menu_in{
+        float:left;
+        width:100%;
+        ul{
+            margin: 0px;
+            padding: 0px;
+            list-style-type: none;
+        
+        li{
+            width:100%;
+            float:left;
+            padding:15px 15px;
+            a{
+                display:block;
+                text-decoration: none;
+            }
+        }
+    }
+    }
+}
